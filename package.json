@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-vuestyleindent",
+  "version": "4.0.0",
+  "description": "eslint plugin for vue.js projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "revfanc",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "peerDependencies": {
+    "eslint": "^5.11.1 || ^6.0.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1"
+  }
+}
